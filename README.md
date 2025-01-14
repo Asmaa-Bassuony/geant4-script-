@@ -1,3 +1,3 @@
 #Installations 
 
-this is tow bash scripts that install Geant4 and Gaerfield++ with the desired versions
+this is two bash scripts that install Geant4 and Gaerfield++ with the desired versions
